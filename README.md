@@ -12,19 +12,17 @@ Exploration of the recent existing marketing dataset will be done in four parts
 ### Part 1 & 2 : Dimensinality Reduction and Feature selection
 Dimensionality reduction entails reducing the dataset to a low dimensional dataset using the t-SNW algorithm or PCA. Feature selection requires using unsupervised learning methods.
 
-#### Publications for Dimensionality Reduction and Feature Selection : [RPubs](https://rpubs.com/Binti_Kadzo/913347)
+Publications for Dimensionality Reduction and Feature Selection : [RPubs](https://rpubs.com/Binti_Kadzo/913347)
 
 ### Part 3 : Association Rules
 Association rules allow the team identify relationships between the variables in the dataset.
 
-#### Publications for Association Rules : [RPubs](https://rpubs.com/Binti_Kadzo/913349)
+Publications for Association Rules : [RPubs](https://rpubs.com/Binti_Kadzo/913349)
 
 ### Part 4 : Anomaly detection
 Help us check whether there are any anomalies in the dataset
 
-#### Publications for Anomaly Detection : [RPubs](https://rpubs.com/Binti_Kadzo/913351)
-
-
+Publications for Anomaly Detection : [RPubs](https://rpubs.com/Binti_Kadzo/913351)
 
 
 <!-- LICENSE -->
